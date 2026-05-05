@@ -1,2 +1,2 @@
 # issprix.github.io
-my site
+data
